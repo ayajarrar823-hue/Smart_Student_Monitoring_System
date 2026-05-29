@@ -191,9 +191,9 @@ Overall, the EDA phase provided valuable insights into student behavior, academi
 
 ![](../images/Picture3.png)
 ![](../images/Picture4.png)
-![](../images/Picture5.png)
+![](../images/box1.png)
 ![](../images/Picture6.png)
-![](../images/Picture7.png)
+![](../images/box2.png)
 
 
 *Main Cleaning Steps*
@@ -215,7 +215,7 @@ These preprocessing steps improved data quality and ensured the dataset was read
 
 ## *Descriptive statistics*
 
-![](../images/Picture8.png)
+![](../images/normal.png)
 
 Numerical Variables _(data.describe())_
 
@@ -645,7 +645,7 @@ Model Training: Logistic Regression and Random Forest models were applied to pre
 
 Model Validation: Model performance was evaluated using accuracy, confusion matrix, classification report, ROC Curve, and AUC Score.
 
-![](../images/{130D6E3F-FA42-4E9A-9C80-109510BCE29C}.png)
+![](../images/r.png)
 
 Model Results Explanation
 
@@ -898,5 +898,4 @@ Overall, the project demonstrates how Business Intelligence and AI techniques ca
 ---
 
 # *References*
-
 
