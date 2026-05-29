@@ -901,7 +901,7 @@ Overall, the project demonstrates how Business Intelligence and AI techniques ca
 
 https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQDNP4WjEjCcT6mA9BPDbRKIAU96cLabGAXoogxNGXHKGrc?e=vkmPEi
 
-https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQC27JWXyWDrRp8bTnqyqyn-AaZrls6UkiIY4b-0mWTkihQ?e=a80NC6
+https://drive.google.com/file/d/1uEtD8YyeGa_yi1Z6vxnT_cUpLMTuIHuB/view?usp=sharing
 
 https://uopstdedu-my.sharepoint.com/:u:/g/personal/202210390_uopstd_edu_jo/IQAokV-r2qiDQpNJEV9XF6aKAeKWBUT56D8WBvFhWFV7bqs?e=LhdILg
 
