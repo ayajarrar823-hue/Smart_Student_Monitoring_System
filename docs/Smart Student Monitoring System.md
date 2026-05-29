@@ -215,7 +215,7 @@ These preprocessing steps improved data quality and ensured the dataset was read
 
 ## *Descriptive statistics*
 
-![](../images/normal.png)
+![](../images/Picture8.png)
 
 Numerical Variables _(data.describe())_
 
@@ -253,7 +253,7 @@ Descriptive statistics help identify data distributions, dominant categories, be
 
 ## *Column Distribution*
 
-![](../images/Picture9.png)
+![](../images/normal.png)
 
 
 - Study Hours per Week Distribution:  
