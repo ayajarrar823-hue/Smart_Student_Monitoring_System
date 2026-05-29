@@ -899,10 +899,10 @@ Overall, the project demonstrates how Business Intelligence and AI techniques ca
 
 # *References*
 
-https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQDNP4WjEjCcT6mA9BPDbRKIAU96cLabGAXoogxNGXHKGrc?e=vkmPEi
+*Raw Data:* https://drive.google.com/file/d/1uEtD8YyeGa_yi1Z6vxnT_cUpLMTuIHuB/view?usp=sharing
 
-https://drive.google.com/file/d/1uEtD8YyeGa_yi1Z6vxnT_cUpLMTuIHuB/view?usp=sharing
+*Processed Data:* https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQDNP4WjEjCcT6mA9BPDbRKIAU96cLabGAXoogxNGXHKGrc?e=vkmPEi
 
-https://uopstdedu-my.sharepoint.com/:u:/g/personal/202210390_uopstd_edu_jo/IQAokV-r2qiDQpNJEV9XF6aKAeKWBUT56D8WBvFhWFV7bqs?e=LhdILg
+*Power BI:* https://uopstdedu-my.sharepoint.com/:u:/g/personal/202210390_uopstd_edu_jo/IQAokV-r2qiDQpNJEV9XF6aKAeKWBUT56D8WBvFhWFV7bqs?e=LhdILg
 
-https://uopstdedu-my.sharepoint.com/:p:/g/personal/202210390_uopstd_edu_jo/IQBcgqRWqM65R5gVbDU0ex1EAU3alWVbz_JSQDVPpxep-dU?e=9kjA7C
+*Power Point:* https://uopstdedu-my.sharepoint.com/:p:/g/personal/202210390_uopstd_edu_jo/IQBcgqRWqM65R5gVbDU0ex1EAU3alWVbz_JSQDVPpxep-dU?e=9kjA7C
