@@ -318,7 +318,7 @@ Recommended Actions:
 
 ---
 
-## *[**🚀 Business Value**](docs/smart.md#project-deployment-effort---use Case)*
+## *[**🚀 Business Value**](docs/smart.md#project-deployment-effort---use-case)*
 
 ![](images/rr.png)
 
