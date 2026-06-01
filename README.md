@@ -239,7 +239,7 @@ K-Means Clustering was applied to identify behavioral student groups.
 
 ### Cluster 0 — High Risk Students
 
-![](images/C0.png)
+![](images/Brainrot.png)
 
 Characteristics:
 
