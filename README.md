@@ -258,7 +258,7 @@ Recommended Actions:
 
 ### Cluster 1 — Healthy & Productive Students
 
-![](images/C1.png)
+![](images/social.png)
 
 Characteristics:
 
