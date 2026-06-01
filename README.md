@@ -277,7 +277,7 @@ Recommended Actions:
 
 ### Cluster 2 — Balanced Students
 
-![](images/C2.png)
+![](images/well.png)
 
 
 Characteristics:
