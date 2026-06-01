@@ -96,7 +96,7 @@ These steps improved model accuracy and dashboard reliability.
 
 ---
 
-## *[**📈 Key Insights**](docs/smart.md#pivot-tables)
+## *[**📈 Key Insights**](docs/smart.md#pivot-tables)*
 
 ![](images/Picture10.png)
 
