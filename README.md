@@ -78,7 +78,7 @@ Key variables include:
 
 ---
 
-## *[**🧹 Data Preparation***](docs/smart.md#data-primary-cleaning-and-transformation)*
+## *[**🧹 Data Preparation**](docs/smart.md#data-primary-cleaning-and-transformation)*
 
 ![](images/C.png)
 
