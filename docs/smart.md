@@ -1,4 +1,4 @@
-Smart Student Monitoring System
+# *Smart Student Monitoring System*
 
 Authors
 
