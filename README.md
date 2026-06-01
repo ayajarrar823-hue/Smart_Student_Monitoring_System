@@ -291,7 +291,7 @@ Recommended Actions:
 
 ---
 
-## *[**💻 Technologies Used**](docs/smart.md#tools-research-and-selection-effort)
+## *[**💻 Technologies Used**](docs/smart.md#tools-research-and-selection-effort)*
 
 ### Programming & Analytics
 
