@@ -20,48 +20,28 @@ Second Semester, 2025/2026
 
 ---
 
-Contents
+# Table of Contents
 
-[**Abstract** 3](#_Toc230731221)
-
-[**Acknowledgment** 4](#_Toc230731222)
-
-[**Business Intelligence Project Description and Objectives** 5](#_Toc230731223)
-
-[**Data Research and Acquiring Effort** 6](#_Toc230731224)
-
-[**Data Description and Understanding** 7](#_Toc230731225)
-
-[**Data Dictionary** 7](#_Toc230731226)
-
-[**Exploratory Data Analysis (EDA)** 10](#_Toc230731227)
-
-[**Data Primary Cleaning and Transformation** 11](#_Toc230731228)
-
-[**Data Visualization and Insights** 13](#_Toc230731229)
-
-[**Descriptive statistics** 13](#_Toc230731230)
-
-[**Column Distribution** 15](#_Toc230731231)
-
-[**Pivot Tables** 17](#_Toc230731232)
-
-[**Dashboard Design & Business Insights** 20](#_Toc230731233)
-
-[**Advanced Analytics and AI Modeling** 29](#_Toc230731234)
-
-[**Prediction** 30](#_Toc230731235)
-
-[**Clustering** 34](#_Toc230731236)
-
-[**Tools Research and Selection Effort** 36](#_Toc230731237)
-
-[**Project Deployment Effort - Use Case** 37](#_Toc230731238)
-
-[**Results** 38](#_Toc230731239)
-
-[**References** 38](#_Toc230731240)
-
+- [Abstract](#abstract)
+- [Acknowledgment](#acknowledgment)
+- [Business Intelligence Project Description and Objectives](#business-intelligence-project-description-and-objectives)
+- [Data Research and Acquiring Effort](#data-research-and-acquiring-effort)
+- [Data Description and Understanding](#data-description-and-understanding)
+  - [Data Dictionary](#data-dictionary)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Primary Cleaning and Transformation](#data-primary-cleaning-and-transformation)
+- [Data Visualization and Insights](#data-visualization-and-insights)
+  - [Descriptive Statistics](#descriptive-statistics)
+  - [Column Distribution](#column-distribution)
+  - [Pivot Tables](#pivot-tables)
+  - [Dashboard Design & Business Insights](#dashboard-design--business-insights)
+- [Advanced Analytics and AI Modeling](#advanced-analytics-and-ai-modeling)
+  - [Prediction](#prediction)
+  - [Clustering](#clustering)
+- [Tools Research and Selection Effort](#tools-research-and-selection-effort)
+- [Project Deployment Effort – Use Case](#project-deployment-effort--use-case)
+- [Results](#results)
+- [References](#references)
 ---
 
 # *Abstract*
