@@ -1,22 +1,14 @@
 # *Smart Student Monitoring System*
 
-Authors
+*Authors: Aya Jarrar, Zaina Saidi, & Shaimaa Akarah*
 
-Aya Jarrar, Zaina Saidi, &
+*Students ID's : 202210914, 202210390, & 202210975*
 
-Shaimaa Akarah
+*Supervised by: Dr Ayman Mansour*
 
-202210914, 202210390, &
+*Course: 307498 - Graduation Project*
 
-202210975
-
-Supervised by
-
-Dr Ayman Mansour
-
-Course: 307498 - Graduation Project
-
-Second Semester, 2025/2026
+*Second Semester, 2025/2026*
 
 ---
 
