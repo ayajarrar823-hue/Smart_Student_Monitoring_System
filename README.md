@@ -320,7 +320,7 @@ Recommended Actions:
 
 ## *[**🚀 Business Value**](docs/smart.md#project-deployment-effort---use-case)*
 
-![](images/rr.png)
+![](images/last.png)
 
 The system enables educational institutions to:
 
