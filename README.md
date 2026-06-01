@@ -9,7 +9,7 @@
 
 ## *📌 Project Overview*
 
-![](images/Cover.png)
+![](images/cover.png)
 
 The **Smart Student Monitoring System** is a Business Intelligence and Artificial Intelligence solution designed to analyze student academic performance, mental wellbeing, and digital behavior.
 
