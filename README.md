@@ -35,6 +35,7 @@ to help educational institutions identify students at risk, monitor wellbeing in
 ## *[**📊 Dataset**](docs/smart.md#data-description-and-understanding)*
 
 ![](images/Picture2.png)
+
 ![](images/normal.png)
 
 The project uses:
