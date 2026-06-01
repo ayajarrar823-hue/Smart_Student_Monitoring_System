@@ -135,7 +135,7 @@ Students exposed to cyberbullying showed:
 
 ---
 
-## *[**📊 Power BI Dashboards**](docs/smart.md#dashboard-design-&-business-insights)
+## *[**📊 Power BI Dashboards**](docs/smart.md#dashboard-design-&-business-insights)*
 
 The project includes four interactive dashboards:
 
