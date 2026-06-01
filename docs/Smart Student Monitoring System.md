@@ -899,10 +899,18 @@ Overall, the project demonstrates how Business Intelligence and AI techniques ca
 
 # *References*
 
-*Raw Data:* https://drive.google.com/file/d/1uEtD8YyeGa_yi1Z6vxnT_cUpLMTuIHuB/view?usp=sharing
+Raw Data: https://drive.google.com/file/d/1uEtD8YyeGa_yi1Z6vxnT_cUpLMTuIHuB/view?usp=sharing
+Processed Data: https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQDNP4WjEjCcT6mA9BPDbRKIAU96cLabGAXoogxNGXHKGrc?e=vkmPEi
+Power BI: https://uopstdedu-my.sharepoint.com/:u:/g/personal/202210390_uopstd_edu_jo/IQAokV-r2qiDQpNJEV9XF6aKAeKWBUT56D8WBvFhWFV7bqs?e=LhdILg
+Power Point:https://uopstdedu-my.sharepoint.com/:p:/g/personal/202210390_uopstd_edu_jo/IQBcgqRWqM65R5gVbDU0ex1EAU3alWVbz_JSQDVPpxep-dU?e=mrYbis
+GitHub: https://github.com/ayajarrar823-hue/Smart_Student_Monitoring_System 
+World Health Organization (WHO). Mental Health. Retrieved from: https://www.who.int/health-topics/mental-health 
+American Psychological Association (APA). Stress and Wellbeing. Retrieved from: https://www.apa.org/topics/stress 
+Pew Research Center. Social Media Use and Impact. Retrieved from: https://www.pewresearch.org/internet/topic/social-media/ 
+National Sleep Foundation. Sleep and Academic Performance. Retrieved from: https://www.thensf.org 
+UNICEF. Cyberbullying Awareness. Retrieved from: https://www.unicef.org/end-violence/how-to-stop-cyberbullying 
+Scikit-Learn. Logistic Regression Documentation. Retrieved from: https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression 
+Scikit-Learn. Random Forest Documentation. Retrieved from: https://scikit-learn.org/stable/modules/ensemble.html#forest 
+Microsoft. Power BI Documentation. Retrieved from: https://learn.microsoft.com/en-us/power-bi/ 
+https://www.kaggle.com/datasets/nitikachandel95/student-social-media-impact-dataset?utm_ 
 
-*Processed Data:* https://uopstdedu-my.sharepoint.com/:x:/g/personal/202210390_uopstd_edu_jo/IQDNP4WjEjCcT6mA9BPDbRKIAU96cLabGAXoogxNGXHKGrc?e=vkmPEi
-
-*Power BI:* https://uopstdedu-my.sharepoint.com/:u:/g/personal/202210390_uopstd_edu_jo/IQAokV-r2qiDQpNJEV9XF6aKAeKWBUT56D8WBvFhWFV7bqs?e=LhdILg
-
-*Power Point:* https://uopstdedu-my.sharepoint.com/:p:/g/personal/202210390_uopstd_edu_jo/IQBcgqRWqM65R5gVbDU0ex1EAU3alWVbz_JSQDVPpxep-dU?e=9kjA7C
